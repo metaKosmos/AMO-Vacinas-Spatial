@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 955a10c89469ad641925da5726d342ed
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bamboo
+    second: {fileID: 2100000, guid: 7bf142d158e4c6941a26fd9629823734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_olive
+    second: {fileID: 2100000, guid: 29ca1502330f18746829ac6b659d6d4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackcurrant_fizzy
+    second: {fileID: 2100000, guid: 0257cf9f28fe4044e925d84f46d5969f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackcurrant_label
+    second: {fileID: 2100000, guid: b9ba5077e7fd784478ef98b59ccbea66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_casing
+    second: {fileID: 2100000, guid: 698ce77f6af83c845adabb6168fdb44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_chocolate
+    second: {fileID: 2100000, guid: 875d6186488224b468eee03d83ec46fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_crust
+    second: {fileID: 2100000, guid: 21c2b780562de1a46a053e2b81db456b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_table
+    second: {fileID: 2100000, guid: 1c77a07ca80f96440817d7319100978d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola_fizzy
+    second: {fileID: 2100000, guid: eb7299343249db54a92dda3472352cc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola_label
+    second: {fileID: 2100000, guid: f0d22efbb217b29438da4f6f295d919c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream3
+    second: {fileID: 2100000, guid: 22491441877b9b94fbc48fc4b8045159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_cake
+    second: {fileID: 2100000, guid: 873ed64237bf08644b23834d79b82536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_cherry
+    second: {fileID: 2100000, guid: 303c229f2d74a334b8285774b38150e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_sprinkle1
+    second: {fileID: 2100000, guid: 9982986beb0361f408f2c41d8039d78d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_sprinkle2
+    second: {fileID: 2100000, guid: 5f6d71cd4d2c9b246aacfaf0303fa6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_sprinkle3
+    second: {fileID: 2100000, guid: 5296642164267c440a5d73216ef88070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupcake2_stem
+    second: {fileID: 2100000, guid: de59549b6bf88ed449cf7b235052a9f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: egg_white
+    second: {fileID: 2100000, guid: c8b3a6588bb49ce4d8c5d4aed6a5da6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green_bowl
+    second: {fileID: 2100000, guid: 1a5fb977975e27b47a1f68d59995c103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green_onion1
+    second: {fileID: 2100000, guid: e356e7ff779be214196f2120affc326a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_mushroom
+    second: {fileID: 2100000, guid: 4b57cf8a168a0fb429e2003b9bef11af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lime_fizzy
+    second: {fileID: 2100000, guid: 8e4f93a7cf8f6f349a29587533c08992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lime_label
+    second: {fileID: 2100000, guid: 5535164ad4124594c8ccb8d4aa3b75e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_bowl
+    second: {fileID: 2100000, guid: 24e7ef876ddb8aa44bb507732c819821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_broth
+    second: {fileID: 2100000, guid: 006693a55a968e4449afbd953b6cb730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_fire3
+    second: {fileID: 2100000, guid: c52e010301d741f47bffd6798449fc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_fizzy
+    second: {fileID: 2100000, guid: 604742145357f2b4fbe8348660d058b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_label
+    second: {fileID: 2100000, guid: 9aae4e31149e73149a3a26e519dff558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_yolk
+    second: {fileID: 2100000, guid: c63e0c1a3bbd1c24c860f5e8220fa5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink_casing
+    second: {fileID: 2100000, guid: dcbece1ada504d44191827cd06dc8287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink_icing3
+    second: {fileID: 2100000, guid: 8b73c9e60cd89864191331462559889e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink_prawn
+    second: {fileID: 2100000, guid: e42579c002213784ab1492394ca07e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinker_icing3
+    second: {fileID: 2100000, guid: f96f5242f1ed3ec44933cdb7660ab090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple_bowl
+    second: {fileID: 2100000, guid: 0b5eda63a554a944cad38edfc14fcb12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple_wax3
+    second: {fileID: 2100000, guid: b4b34bb6e6b8cbe4caa5e8dcc89c60ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_marinara
+    second: {fileID: 2100000, guid: 8e0f7e88a0437944ea6960c9ccaba893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_onion
+    second: {fileID: 2100000, guid: 75c535d18e829e14b8fa058073927895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_pepperoni
+    second: {fileID: 2100000, guid: 7a25c5b088fa58746a54e6466db004dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_strawberry3
+    second: {fileID: 2100000, guid: c7ee336bdb821fe41b011c2f7918cc7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_onion
+    second: {fileID: 2100000, guid: 752070d26af625244a1f474700b0b4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_plastic
+    second: {fileID: 2100000, guid: 9c46c3ced004217469bf91eaabf01c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_vanilla
+    second: {fileID: 2100000, guid: 773ab594c726ee44e8c51aa056a6a122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_wick3
+    second: {fileID: 2100000, guid: dfa842e277e92034a8b14bc404614b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow_casing
+    second: {fileID: 2100000, guid: a65d9fe60d300ff41931b0c0a45a5aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow_mozzarella
+    second: {fileID: 2100000, guid: ceaaa295eab013c4eaff9c20a3d4c3b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow_noodle
+    second: {fileID: 2100000, guid: 0b6bb38c49a5c5149a5eac30e58eb86c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
