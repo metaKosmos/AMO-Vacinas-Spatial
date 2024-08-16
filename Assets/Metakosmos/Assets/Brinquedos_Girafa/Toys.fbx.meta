@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 41b9395a2435e504eb5737311a86ae86
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseballBat_COLOUR
+    second: {fileID: 2800000, guid: 6183667f56c79cf4c9cf9b5983e2f589, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseballBat_ROUGH
+    second: {fileID: 2800000, guid: ac9da4832ae6f1649bd0dacef9d456cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_Colour
+    second: {fileID: 2800000, guid: 7f67fe375b69e2a43bf0bcb63bc5f59b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_Metal
+    second: {fileID: 2800000, guid: 20aeba23486baef45877d3b4c93c0751, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Football_Colour
+    second: {fileID: 2800000, guid: 86d59ec7350eaa549ad7bb2bfeb15eaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-BLACK
+    second: {fileID: 2800000, guid: 9dc5390855836354b8a42e0699c6f94b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-BLUE
+    second: {fileID: 2800000, guid: 486212906bea28642bf22a157ffcbe3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-DEEPPURPLE
+    second: {fileID: 2800000, guid: 9be8e60e4e4bb7048b67e138da202873, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-GREEN
+    second: {fileID: 2800000, guid: 9ef22feb7a2754041b38d37d8363fb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-PINK
+    second: {fileID: 2800000, guid: e39cd0c541c8dfb4fa7581f98c5e3cea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-RED
+    second: {fileID: 2800000, guid: 6aab4b264991f69478d20a8e42db7da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_COLOUR-YELLOW
+    second: {fileID: 2800000, guid: d616dda074045e24dbc7683cf5a24455, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_METAL
+    second: {fileID: 2800000, guid: 7606c2cd60ec22541a3ed352585e5eb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pencil_ROUGH
+    second: {fileID: 2800000, guid: 95b5f789151fc7341ae0b801a54e3d96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Phone_Colour
+    second: {fileID: 2800000, guid: 0f64ee7291dd21d4ca7ab25c088241e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Soccer_COLOUR
+    second: {fileID: 2800000, guid: 85aebd2472aee824280a566ca4a19e75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Truck_Colour
+    second: {fileID: 2800000, guid: 2ba6e5aa75344db41b64834f402dd3ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Truck_Metal
+    second: {fileID: 2800000, guid: 2b5437759982f884fa9a7fe928713b61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: XylophoneMallet_ROUGH
+    second: {fileID: 2800000, guid: 733efebd91265114892ddffff4b103ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Xylophone_COLOUR
+    second: {fileID: 2800000, guid: 3a39e74a27e018542b01d5e85c3f0624, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Xylophone_METAL
+    second: {fileID: 2800000, guid: 4b98225fe8232b64f8af49f3cb0cf2ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: catcar_Emission
+    second: {fileID: 2800000, guid: b7c61ce39808f44478b2eee3890e6751, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: catcar_catcar_BaseColor
+    second: {fileID: 2800000, guid: 31bdd542893ce184da2d20ff46d94f0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: catcar_catcar_Metallic
+    second: {fileID: 2800000, guid: 01019c9e1b1fd5544b5569bfac21ccab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: catcar_catcar_Normal
+    second: {fileID: 2800000, guid: 9b4ef998ccb3aa6488d4cbb140dfce40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: catcar_catcar_Roughness
+    second: {fileID: 2800000, guid: ffb720064fc2d7e4983f20f262a13f52, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
