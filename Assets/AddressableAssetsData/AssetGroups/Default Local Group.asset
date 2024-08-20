@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 26d32615bc911604a87ee3408c610859
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 35ce917939531c349a9925449009cffc
+    m_Address: Assets/AZURE Nature/Materials/Nature/AN_Bush_Branches.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 61fa4601670852d4bb9fec17f6ff9bc0, type: 2}
   m_SchemaSet:
