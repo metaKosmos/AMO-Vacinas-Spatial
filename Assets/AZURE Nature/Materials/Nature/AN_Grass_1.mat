@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6425060955200832834
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -16,16 +29,7 @@ Material:
   - _SNOWOVERLAYTYPE_UV_BASED
   - _TRANCLUSENCYENABLE_ON
   - _WIND_ON
-  m_InvalidKeywords:
-  - _COLOR2ON_ON
-  - _COLOR2OVERLAYTYPE2_UV_BASED
-  - _COLOR2TYPE_VERTICALGRADIENT
-  - _FIXTHEBASEOFFOLIAGE2_ON
-  - _HIGHLIGHTWIND_ON
-  - _KEYWORD0_ON
-  - _SNOWOVERLAYTYPE2_WORLD_NORMAL_BASED
-  - _TREETYPE_BROADLEAF
-  - _WIND2_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -35,6 +39,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -99,6 +107,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Texture0:
         m_Texture: {fileID: 2800000, guid: 4842d55961662184fb9e550c98258083, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -137,12 +149,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaClip: 0
     - _AlphaCutoff: 0.35
+    - _Blend: 0
     - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
     - _Color2: 0
     - _Color2Enable: 1
     - _Color2Enable2: 0
-    - _Color2Fade: 0.64
+    - _Color2Fade: 0.79
     - _Color2Fade2: 0.7
     - _Color2Int: 0.6
     - _Color2Intensity: 0.421
@@ -153,7 +169,9 @@ Material:
     - _Color2OverlayType2: 1
     - _Color2Power: 1.76
     - _Color2Type: 0
+    - _Cull: 2
     - _Cutoff: 0.3
+    - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DirectLightInt: 1
     - _DirectLightInt1: 1
@@ -186,7 +204,7 @@ Material:
     - _Smoothness: 0.1
     - _Smoothness1: 0.1
     - _Smoothness2: 0
-    - _SmoothnessTextureChannel: 0
+    - _SmoothnessTextureChannel: 1
     - _Snow: 0
     - _SnowAmount: 1
     - _SnowAmount2: 0.5
@@ -198,6 +216,7 @@ Material:
     - _SnowTiling: 0.15
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _Surface: 0
     - _Tiling: 1
     - _TranclusencyEnable: 1
     - _TransAmbient: 0
@@ -220,10 +239,12 @@ Material:
     - _WindSpeed2: 0.5
     - _WindWavesScale: 0.3
     - _WindWavesScale2: 0.25
+    - _WorkflowMode: 1
     - _WorldNoiseScale: 0.098
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0.7058823, g: 0.48230892, b: 0.12156857, a: 0}
     - _Color1: {r: 0.22080034, g: 0.52156866, b: 0.050980385, a: 0}

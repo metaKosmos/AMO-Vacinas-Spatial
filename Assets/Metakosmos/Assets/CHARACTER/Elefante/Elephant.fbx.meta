@@ -7,18 +7,63 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.019
-    second: {fileID: 2100000, guid: b28448be4f7189a418fce4b8c0288c75, type: 2}
+      name: elephant
+    second: {fileID: 2100000, guid: c9f1e3770eed52f4a87cc07354f4eb13, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.020
-    second: {fileID: 2100000, guid: 3ecc1315a01669a42b3223833bb6235c, type: 2}
+      name: elephant_001
+    second: {fileID: 2100000, guid: 27c8e8e05ff41e348901e644b1717224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_color
+    second: {fileID: 2100000, guid: e809bd126cb9ca1479691396a965eff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_pupil
+    second: {fileID: 2100000, guid: 8e73566295133c34b8ccf710a734495b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_white
+    second: {fileID: 2100000, guid: 5b2496d5776f56f4d9a64a754d4f4e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes_and_brows
+    second: {fileID: 2100000, guid: c2cfb9d081ddba647bc4643d6f46848a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nails
+    second: {fileID: 2100000, guid: 2722b32f526a7f54d8c6338ae990bea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink
+    second: {fileID: 2100000, guid: d6555a84ed107994dbd99552065d2145, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: African_Elephant_C.tga
-    second: {fileID: 2800000, guid: 75ef48f748655a847938f15ebf33ee48, type: 3}
+      name: elephant_001_Diffuse
+    second: {fileID: 2800000, guid: cb9a6945d46386146a8d3b98124c3949, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: elephant_001_Normal
+    second: {fileID: 2800000, guid: a42e89f9d4f2159448e0d083fa4ac494, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: elephant_Diffuse
+    second: {fileID: 2800000, guid: 9df162086b92a664ea544a889b509a59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pink_Diffuse
+    second: {fileID: 2800000, guid: 58d4f42438a1c6a4989562e520794e39, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
