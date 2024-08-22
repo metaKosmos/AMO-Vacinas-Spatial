@@ -1,4 +1,4 @@
-Shader "Custom/TwoColorShaderWithTransparencyBothSides"
+Shader "Custom/TwoColorShaderWithWindEffect"
 {
     Properties
     {
@@ -7,6 +7,8 @@ Shader "Custom/TwoColorShaderWithTransparencyBothSides"
         _Color2 ("Color 2", Color) = (1,1,1,1)
         _BlendPoint ("Blend Point", Range(0,1)) = 0.7
         _Alpha ("Alpha", Range(0,1)) = 1.0
+        _WindStrength ("Wind Strength", Range(0, 1)) = 0.1
+        _WindSpeed ("Wind Speed", Range(0, 10)) = 1.0
     }
     SubShader
     {
@@ -14,7 +16,7 @@ Shader "Custom/TwoColorShaderWithTransparencyBothSides"
         LOD 200
         Blend SrcAlpha OneMinusSrcAlpha
         ZWrite Off
-        Cull Off  // Desativa o culling para renderizar ambos os lados
+        Cull Off
 
         Pass
         {
@@ -41,10 +43,20 @@ Shader "Custom/TwoColorShaderWithTransparencyBothSides"
             float4 _Color2;
             float _BlendPoint;
             float _Alpha;
+            float _WindStrength;
+            float _WindSpeed;
 
             v2f vert (appdata v)
             {
                 v2f o;
+                
+                // Adding wind effect to the vertex position
+                float time = _Time.y * _WindSpeed;
+                float offset = sin(v.vertex.y * 10 + time) * _WindStrength;
+
+                // Apply the offset to the x position of the vertex
+                v.vertex.x += offset;
+
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 o.uv = TRANSFORM_TEX(v.uv, _BaseMap);
                 return o;
