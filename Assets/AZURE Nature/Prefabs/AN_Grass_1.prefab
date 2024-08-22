@@ -51,7 +51,7 @@ LODGroup:
     fadeTransitionWidth: 0.309
     renderers:
     - renderer: {fileID: 2310612991721237061}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!1 &8803950618570300984
 GameObject:
   m_ObjectHideFlags: 0
@@ -113,7 +113,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6eaf6b958c00dd2458d54d6b64bc31ce, type: 2}
+  - {fileID: 2100000, guid: 3b571149528f0e54681dcd65379074b7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

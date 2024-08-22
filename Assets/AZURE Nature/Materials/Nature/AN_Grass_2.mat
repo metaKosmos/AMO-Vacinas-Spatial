@@ -13,8 +13,8 @@ Material:
   - _COLOR2ENABLE_ON
   - _COLOR2OVERLAYTYPE_UV_BASED
   - _FIXTHEBASEOFFOLIAGE_ON
+  - _RECEIVE_SHADOWS_OFF
   - _SNOWOVERLAYTYPE_WORLD_NORMAL_BASED
-  - _TRANCLUSENCYENABLE_ON
   - _WIND_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -173,7 +173,7 @@ Material:
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ReceiveShadows: 1
+    - _ReceiveShadows: 0
     - _SNOW: 0
     - _Shininess: 0
     - _Smoothness: 0.1
@@ -193,7 +193,7 @@ Material:
     - _SubsurfaceKwToggle: 0
     - _Surface: 0
     - _Tiling: 1
-    - _TranclusencyEnable: 1
+    - _TranclusencyEnable: 0
     - _TransAmbient: 0
     - _TransDirect: 1
     - _TransNormalDistortion: 0
