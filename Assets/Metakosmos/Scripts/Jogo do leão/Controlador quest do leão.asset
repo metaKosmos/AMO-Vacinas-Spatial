@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: "Controlador quest do le\xE3o"
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":11.9577,"y":233.5399},"zoom":1.0,"elements":[{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Interactable","$type":"System.String"},"object":null},"position":{"x":-348.0,"y":-29.0},"guid":"dbf0aa6b-e960-44a4-a9c5-2eb01458e555","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"9"},{"coroutine":false,"defaultValues":{"interactable":null},"position":{"x":-80.0,"y":-36.0},"guid":"caf29a07-204f-47fd-a1d1-4e2ec0f35735","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SpatialInteractableOnInteract","$id":"11"},{"defaultValues":{"questRef":null},"position":{"x":189.0,"y":-24.0},"guid":"ff55fa96-c76c-4d1a-897a-3dee3dc93c0f","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.StartSpatialQuestNode","$id":"13"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Quest
+      do le\u00e3o","$type":"System.String"},"object":null},"position":{"x":-91.0,"y":72.0},"guid":"0971e236-4ec7-452e-93a9-748382bf8b20","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"15"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"inputTrigger","guid":"fab10b0c-55e3-4bd3-981a-d955d47171e8","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"interactable","guid":"5ef51524-43b0-4c90-97c8-6a565d19769b","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"13"},"destinationKey":"questRef","guid":"39bcf045-57c7-4d54-82fa-881189b7bb48","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
