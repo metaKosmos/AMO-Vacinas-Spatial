@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 97d8f4ae859ad41cdb0be1de8473a06a, type: 3}
-  m_Name: Avatar_1
+  m_Name: Avatar_2
   m_EditorClassIdentifier: 
   version: 0
   sku: 
-  packageName: Urso_AmoVacinas
+  packageName: Urso_AmoVacinasss
   thumbnail: {fileID: 2800000, guid: ac5c61475abbb634892f1abb491af367, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  prefab: {fileID: 5797534161874186361, guid: e48aec7db4431704081a2423d7d5cd22, type: 3}
+  prefab: {fileID: 5396180326289442245, guid: 3348545e91aa28c468add16ad5d9592b, type: 3}
   usageContext: 0
   category: 0
