@@ -18,6 +18,6 @@ MonoBehaviour:
   thumbnail: {fileID: 2800000, guid: ac5c61475abbb634892f1abb491af367, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  prefab: {fileID: 5797534161874186361, guid: e48aec7db4431704081a2423d7d5cd22, type: 3}
+  prefab: {fileID: 6417147100604779683, guid: 8e48c0ef58a7f45459cae4bb9fe7d8c9, type: 3}
   usageContext: 0
   category: 0
