@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Avatar_1
   m_EditorClassIdentifier: 
   version: 0
-  sku: 
+  sku: 66d7218b3d1147a3cba07547
   packageName: Urso_AmoVacinas
-  thumbnail: {fileID: 2800000, guid: ac5c61475abbb634892f1abb491af367, type: 3}
+  thumbnail: {fileID: 2800000, guid: beaf960caacdc3543ba06044cd865e06, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  prefab: {fileID: 6417147100604779683, guid: 8e48c0ef58a7f45459cae4bb9fe7d8c9, type: 3}
+  prefab: {fileID: 7867878375741742890, guid: 35a27e103ef06f949bd358cff8dc43a3, type: 3}
   usageContext: 0
   category: 0
