@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 66ccec38437841ccebe4a1ec
-  packageName: Amo Vacinas V.Beta
-  thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
+  packageName: Amo Vacinas
+  thumbnail: {fileID: 2800000, guid: c169560d04e7b634ea20a51d77887966, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: CjU9AbYUa-kFvFnHYiuZT
